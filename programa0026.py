@@ -29,7 +29,7 @@ class Objeto:
     pelos   = Pelo()
     
     def flotar(self):
-        pass
+        print(12)
 
 et = Objeto()
 print(et.color)
@@ -37,5 +37,5 @@ print(et.tamanio)
 print(et.aspecto)
 et.color = "Rosa"
 print(et.color)
-
+print(et.flotar())
     
