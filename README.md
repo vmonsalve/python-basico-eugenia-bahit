@@ -1,3 +1,3 @@
 # El lenguaje python.
-Código fuente, del libro el lenguaje python,
+Código fuente y libro "El lenguaje python",
 escrito por Eugenia Bahit.
